@@ -13,6 +13,7 @@
 
 Для Windows:
 `venv\Scripts\activate`
+
 Для macOS/Linux:
 `source venv/bin/activate`
 
