@@ -10,6 +10,7 @@
 `python -m venv venv`
 
 - Активируйте виртуальное окружение:
+
 Для Windows:
 `venv\Scripts\activate`
 Для macOS/Linux:
