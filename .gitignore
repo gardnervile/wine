@@ -4,3 +4,4 @@ env/
 index.html
 .env
 venv/
+clean_env/
